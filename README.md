@@ -1,4 +1,4 @@
-<div align="center"><a href="https://github.com/rcfdtools" target="_blank"><img src="https://github.com/rcfdtools/rcfdtools/blob/main/graph/rcfdtools_banner.png" alt="R.LTWB" width="100%" border="0" /></a></div>
+<div align="center"><a href="https://github.com/rcfdtools" target="_blank"><img src="https://github.com/rcfdtools/rcfdtools/blob/main/file/graph/rcfdtools_banner.png" alt="rcfdtools" width="100%" border="0" /></a></div>
 
 # COURSE: _“Water Resources Engineering and Management - WREM”_
 Keywords: `hydrology` `hydraulics` `geographic-information-systems` `hec-ras` `hec-hms` `qgis` `river-design` `river-modeling` `river-profile` `river-slope` `manning-roughness` 
@@ -49,7 +49,7 @@ The following tools and directory structure are required for the development of 
 | [:toolbox:Tool](https://www.office.com/)                                                      | Microsoft 365 (Word, Excel, OneDrive, Teams).                                              |
 | [:toolbox:Tool](https://notepad-plus-plus.org/)                                               | Notepad++ (text editor).                                                                   |
 | [:toolbox:Tool](https://qgis.org/)                                                            | QGIS 3.44.10, 4.0.2 or newer.                                                              |
-| [:toolbox:Tool](https://www.7-zip.org/)                                                       | 7-Zip File Manager (file compressor).                                                    |
+| [:toolbox:Tool](https://www.7-zip.org/)                                                       | 7-Zip File Manager (file compressor).                                                      |
 | [:toolbox:Tool](https://www.hec.usace.army.mil/software/hec-hms/)                             | HEC-HMS 4.13 or newer.                                                                     |
 | [:toolbox:Tool](https://www.hec.usace.army.mil/software/hec-dssvue/)                          | HEC-DSSVue 3.2.3 (functional version for massive hyetograph load).                         |
 | [:toolbox:Tool](https://www.hec.usace.army.mil/software/hec-ras/)                             | HEC-RAS 7.0 or newer.                                                                      |
@@ -58,7 +58,7 @@ The following tools and directory structure are required for the development of 
 | [:construction_worker:Copernicus user account](https://dataspace.copernicus.eu/)              | European Union's Earth observation program account (ERA5 data).                            |
 | [:construction_worker:OpenTopography user account](https://portal.opentopography.org/newUser) | OpenTopography account (high-resolution topographic data as LiDAR, radar, photogrammetry). |
 | [:package:Folder structure](file/Readme.md)                                                   | Required folder structure.                                                                 |
-| [:memo:Technical report layout](file/report/)                                                 | Report layout for students technical reports.                                              |
+| [:memo:Technical report template](file/report/)                                               | Report template for students technical reports.                                            |
 
 </div>
 
