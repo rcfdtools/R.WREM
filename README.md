@@ -5,7 +5,7 @@ Keywords: `hydrology` `hydraulics` `geographic-information-systems` `hec-ras` `h
 
 Water Resources Engineering and Management is a specialized field that blends civil engineering, hydrology, hydraulics and environmental science to sustainably supply, distribute, and protect the world's freshwater resources. It focuses on balancing human demands (such as drinking water, agriculture, and industry) with ecological preservation while mitigating water-related hazards like floods and droughts. The combination of hydrology and hydraulics allow engineers to calculate how much water is coming and design systems to safely manage, transport, or utilize it.
 
-<div align="center"><img src="file/graph/WREM.png" alt="R.SIGE" width="65%" border="0" /><sub><br>Generate with Google Gemini</sub><br><br></div>
+<div align="center"><img src="file/graph/R.WREM.png" alt="R.SIGE" width="65%" border="0" /><sub><br>Generate with Google Gemini</sub><br><br></div>
 
 
 ## Course Goals
