@@ -48,13 +48,13 @@ The following tools and directory structure are required for the development of 
 |:----------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
 | [:toolbox:Tool](https://www.office.com/)                                                      | Microsoft 365 (Word, Excel, OneDrive, Teams).                                              |
 | [:toolbox:Tool](https://notepad-plus-plus.org/)                                               | Notepad++ (text editor).                                                                   |
-| [:toolbox:Tool](https://qgis.org/)                                                            | QGIS 3.44.11 & 4.0.3 or newers.                                                            |
+| [:toolbox:Tool](https://qgis.org/)                                                            | QGIS 3.44.11 & 4.0.3 or newer.                                                             |
 | [:toolbox:Tool](https://www.7-zip.org/)                                                       | 7-Zip File Manager (file compressor).                                                      |
 | [:toolbox:Tool](https://www.hec.usace.army.mil/software/hec-hms/)                             | HEC-HMS 4.13 or newer.                                                                     |
 | [:toolbox:Tool](https://www.hec.usace.army.mil/software/hec-dssvue/)                          | HEC-DSSVue 3.2.3 (functional version for massive hyetograph load).                         |
 | [:toolbox:Tool](https://www.hec.usace.army.mil/software/hec-ras/)                             | HEC-RAS 7.0.1 or newer.                                                                    |
-| [:construction_worker:GitHub user account](https://github.com/)                               | Course resourcess access and upgrading notificacions.                                      |
-| [:construction_worker:USGS user account](https://ers.cr.usgs.gov/register/contact)            | USGS - United States Geological Survey account (satellital images).                        |
+| [:construction_worker:GitHub user account](https://github.com/)                               | Course resources access and upgrading notifications.                                       |
+| [:construction_worker:USGS user account](https://ers.cr.usgs.gov/register/contact)            | USGS - United States Geological Survey account (satelital images).                         |
 | [:construction_worker:Copernicus user account](https://dataspace.copernicus.eu/)              | European Union's Earth observation program account (ERA5 data).                            |
 | [:construction_worker:OpenTopography user account](https://portal.opentopography.org/newUser) | OpenTopography account (high-resolution topographic data as LiDAR, radar, photogrammetry). |
 | [:package:Folder structure](file/Readme.md)                                                   | Required folder structure.                                                                 |
