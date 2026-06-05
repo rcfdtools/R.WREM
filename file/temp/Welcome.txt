@@ -4,15 +4,15 @@ UNIVERSIDAD ESCUELA COLOMBIANA DE INGENIERÍA JULIO GARAVITO
 Instructor: William Ricardo Aguilar Piña
 william.aguilar@escuelaing.edu.co
  
-Horario: miércoles y viernes de 08:00am – 10:00am
-Fecha de inicio: miércoles 10 de junio de 2026
-Modalidad remota por Microsoft Teams: https://teams.microsoft.com/meet/284666973052748?p=wY3QaQaXtL6VHoaVGE
+● Horario: miércoles y viernes de 08:00am – 10:00am
+● Fecha de inicio: miércoles 10 de junio de 2026
+● Duración: 25 horas
+● Modalidad remota por Microsoft Teams: https://teams.microsoft.com/meet/284666973052748?p=wY3QaQaXtL6VHoaVGE
+● Micrositio del curso: https://github.com/rcfdtools/R.WREM/blob/main/README.md
  
-Micrositio del curso: https://github.com/rcfdtools/R.WREM/blob/main/README.md
+Bienvenid@, en este curso, los participantes obtendrán conocimientos generales en el uso y aplicación de sistemas de información geográfica, hidrología e hidráulica computacional. El desarrollo de los diferentes talleres y clases se ejemplifica a través de un caso de estudio.
  
-Bienvenid@, en este curso, los participantes obtendrán el conocimiento general y detallado del uso de los sistemas de información geográfica, hidrología e hidráulica aplicada mediante la utilización de herramientas computacionales. El desarrollo de los diferentes talleres y clases del curso se ejemplifica a través de casos de estudio.
- 
-Para el óptimo desempeño del curso, el desarrollo de los talleres prácticos y pruebas técnicas, se recomienda el uso de un equipo personal con el siguiente software y cuentas de usuario:
+Para el óptimo desempeño del curso y el desarrollo de los talleres prácticos, se recomienda el uso de un equipo personal con el siguiente software y cuentas de usuario:
 
 
  
