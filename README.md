@@ -85,7 +85,7 @@ A Geographic Information System (GIS) is a digital framework used to capture, st
 | 1.7. Hydrometeorological stations                                       | A hydrometeorological station is a specialized facility equipped with instruments to measure and record both atmospheric weather conditions and water-related (hydrological) parameters. They bridge the gap between meteorology and hydrology by tracking how weather events impact water resources, such as river levels, rainfall, and soil moisture.<br/><br/>https://github.com/rcfdtools/R.IAMB/blob/main/activity/CNEStation/Readme.md                                                                                                 |       1.5        |
 
 
-## :large_blue_circle:Module 2: Hydrology
+## :large_blue_circle:Module 2: Computational Hydrology
 
 Hydrology focuses on the Earth's water cycle. It deals with the occurrence, distribution, and movement of water across the globe, including rainfall, evaporation, and groundwater flow. 
 
@@ -100,7 +100,7 @@ Hydrology focuses on the Earth's water cycle. It deals with the occurrence, dist
 | 2.7. Elevation area & Elevation volume curves in reservoirs                              | Elevation-Area and Elevation-Volume curves are graphical tools used by engineers to define the physical geometry of a reservoir. They represent how much water surface area and total water capacity correspond to any given water level elevation, which is critical for planning, flood control, and power generation.<br/><br/>https://github.com/rcfdtools/R.SIGE/blob/main/activity/Reservoir/Readme.md                                                                                                                                                                                                                                                                                                                                                                                                 |       1.5        |
 
 
-## :large_blue_circle:Module 3: Hydraulics
+## :large_blue_circle:Module 3: Computational Hydraulics
 
 Hydraulics focuses on the mechanical properties and physical flow of water. It applies fluid mechanics to engineer practical systems like pipes, pumps, river channels, dams, and stormwater networks. 
 
