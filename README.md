@@ -70,7 +70,7 @@ The following tools and directory structure are required for the development of 
 * **QGIS**: from the menu _Settings / General / Override System Locale_, set _User interface translation_ as _American English_ and _Locale (number, date and currency formats)_ as _English United States (en_US)_.
 
 
-## :large_blue_circle:Module 1: Geographic Information Systems - GIS
+## :large_blue_circle:Module 1: Geographic Information Systems
 
 A Geographic Information System (GIS) is a digital framework used to capture, store, analyze, and visualize spatial data. In hydrology and hydraulics, GIS acts as the spatial engine of water management. It maps terrain and landscape characteristics to calculate how water moves across a landscape.
 
