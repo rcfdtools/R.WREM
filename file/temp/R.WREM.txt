@@ -4,10 +4,11 @@ R.WREM
 ● 4 semana (martes 30 de junio, miércoles 1 y viernes 3 de julio) 8:00-10:00
 ● 5 semana (martes 7, miércoles 8 y viernes 10 de julio) 8:00-10:00  
 
-Test extreme_tr_gis.py from QGIS.
+1.7. Hydrometeorological stations
 
 Nivel hidrológico superficial
 ● N1-AH
 ● N2-ZH
 ● N3-SZH
 ● N4-Subcuencas aportantes al Río Bogotá
+
