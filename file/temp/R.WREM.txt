@@ -13,3 +13,31 @@ Nivel hidrológico superficial
 ● N3-SZH
 ● N4-Subcuencas aportantes al Río Bogotá
 
+CNESource = if("Entidad" = 'INSTITUTO DE HIDROLOGÍA METEOROLOGÍA Y ESTUDIOS AMBIENTALES', 'CNE', 'CNE_OE')
+
+https://www.researchgate.net/publication/346703535_Effect_of_Data_Length_to_the_Consistency_of_Design_Rainfall
+
+Sample raster values
+
+Distance between stations
+	TIN Mesh Creation
+	Export mesh faces
+	Polygons to lines
+	D2D = length(@geometry)/1000
+	D3D = length3D(@geometry)/1000
+	Filter "D3D" <= 200
+	
+Filtro general para interpolación en Tr 2.33	
+"FilterZE" = 1 AND "n" >= 8 AND "tr" = 2.33 AND "pmax24hr" > 0
+
+Filtro general para interpolación en Tr 100	
+"FilterZE" = 1 AND "n" >= 8 AND "tr" = 100 AND "pmax24hr" > 0  AND "pmax24hr" <= 1000
+
+
+Para la próxima sesión realizar las siguientes interpolaciones IDW:
+
+Gumbel Tr 2.33 y 100 años, p:12, Cellsize:100
+BestFit Tr 2.33 y 100 años, p:12, Cellsize:100
+Demás distribuciones comunes usadas en hidrología con Tr 2.33 y 100.
+
+Con p=12 obtendrán la distribución espacial similar a los polígonos de Thiessen Voronio.
