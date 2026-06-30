@@ -3,12 +3,10 @@ R.WREM
 ● 4 semana (martes 30 de junio, miércoles 1 y viernes 3 de julio) 8:00-10:00
 ● 5 semana (martes 7, miércoles 8 y viernes 10 de julio) 8:00-10:00  
 
-
-2.1. Maximum probable precipitation in 24 hours: PDF selection and Tr interpolation maps
-
 2.3. Subbasin restitution and morphometric parameters
+Preprocess Sinks
 Run qgis_hechms_parameter.py
-Con https://rcfdtools.github.io/rcfdtools/tool/ynyc/ crear hietograma adimensional.
+With https://rcfdtools.github.io/rcfdtools/tool/ynyc/ create adimensional hyetographs.
 
 
 Nivel hidrológico superficial
