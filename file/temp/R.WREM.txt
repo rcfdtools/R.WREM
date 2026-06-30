@@ -1,11 +1,15 @@
 R.WREM
 
-● 3 semana (***miércoles 24 y viernes 26 de junio) 8:00-10:00 
 ● 4 semana (martes 30 de junio, miércoles 1 y viernes 3 de julio) 8:00-10:00
 ● 5 semana (martes 7, miércoles 8 y viernes 10 de julio) 8:00-10:00  
-***cancelada
 
-1.7. Hydrometeorological stations
+
+2.1. Maximum probable precipitation in 24 hours: PDF selection and Tr interpolation maps
+
+2.3. Subbasin restitution and morphometric parameters
+Run qgis_hechms_parameter.py
+Con https://rcfdtools.github.io/rcfdtools/tool/ynyc/ crear hietograma adimensional.
+
 
 Nivel hidrológico superficial
 ● N1-AH
@@ -36,3 +40,11 @@ Filtros e interpolaciones IDW:
 	Demás distribuciones comunes usadas en hidrología con Tr 2.33 y 100.
 
 Con p=12 obtendrán la distribución espacial similar a los polígonos de Thiessen Voronio.
+
+
+
+Prompt: Duración promedio de la precipitación en la cuenca del Río Bogotá
+
+En la cuenca del río Bogotá, la precipitación no suele ser continua durante todo el día; se presenta principalmente a través de eventos intermitentes (chubascos o aguaceros). La duración promedio de estos eventos de lluvia oscila entre 1 y 4 horas, concentrándose fuertemente en las tardes y primeras horas de la noche.
+
+Factores climáticos y duraciónRégimen de lluvias: La cuenca presenta un régimen bimodal (dos temporadas de lluvias al año). La primera ocurre entre marzo y mayo, y la segunda entre octubre y mediados de diciembre.Acumulados mensuales: Durante los meses más lluviosos, como abril, la precipitación mensual puede llegar a 378 mm (en la ciudad de Bogotá). En total, el promedio anual de la ciudad es de 866 mm.Influencia orográfica: Los cerros orientales y la topografía condicionan la formación de las nubes y desencadenan tormentas que duran un par de horas, especialmente cuando hay humedad proveniente de los Llanos Orientales.Tiempo de concentración de la cuencaEn términos estrictamente hidrológicos, el tiempo de concentración (el tiempo que tarda una "gota de lluvia" desde la parte más lejana de la cuenca en llegar al cauce principal del río Bogotá) varía de forma considerable según la zona:Cuenca urbana y subcuencas: En microcuencas urbanas (como los ríos Torca, Salitre, Fucha o Tunjuelo), este tiempo puede ser muy rápido, de 1 a 3 horas tras iniciar un aguacero.Cuenca alta y media: El tiempo que tarda el agua en recorrer las partes más extensas puede oscilar entre 8 y 12 horas antes de que el caudal máximo alcance la cuenca baja.
