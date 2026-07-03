@@ -3,10 +3,19 @@ R.WREM
 ● 4 semana (martes 30 de junio, miércoles 1 y viernes 3 de julio) 8:00-10:00
 ● 5 semana (martes 7, miércoles 8 y viernes 10 de julio) 8:00-10:00  
 
-2.3. Subbasin restitution and morphometric parameters
-Muskigum
-Run qgis_hechms_parameter.py
-With https://rcfdtools.github.io/rcfdtools/tool/ynyc/ create adimensional hyetographs.
+Q 28m3/s en sifon Fa
+ARF Q
+0.23 7.7
+0.5 159.4
+
+ERA5
+North 5.3
+South 4.2
+East -73.5
+West -74.9
+
+ERA5_land_monthly_climatological_var_010dd_ssr_uv10_CuencaRioBogota.nc
+
 
 
 Nivel hidrológico superficial
@@ -60,5 +69,5 @@ Cuenca urbana y subcuencas: En microcuencas urbanas (como los ríos Torca, Salit
 Cuenca alta y media: El tiempo que tarda el agua en recorrer las partes más extensas puede oscilar entre 8 y 12 horas antes de que el caudal máximo alcance la cuenca baja.
 
 
-0.00
-4125.77
+			
+
