@@ -4,4 +4,4 @@
 
 > Utilice la carpeta `\dem` para almacenar los modelos digitales de elevación en formato GeoTIFF, ascii, grid, ecw.
 
-Get CNII_Colombia_90m_v0.tif from https://github.com/rcfdtools/R.HydroTools/releases/tag/CN
+CNII_Colombia_90m_v0.tif from https://github.com/rcfdtools/R.HydroTools/releases/tag/CN
