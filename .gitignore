@@ -81,7 +81,7 @@ file/data/IGAC/Drenaje_Sencillo.gpkg
 file/dem/ALOSPalsarFBS/*.zip
 file/dem/*.tif
 file/dem/*.tif.*
-file/dem/*.zip
+#file/dem/*.zip
 file/grid/LE07_L2SP/*.*
 file/grid/LC09_L2SP/*.*
 #.dem/*.rar
