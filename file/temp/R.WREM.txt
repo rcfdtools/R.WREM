@@ -48,6 +48,11 @@ Filtros e interpolaciones IDW:
 	Demás distribuciones comunes usadas en hidrología con Tr 2.33 y 100.
 	Con p=12 obtendrán la distribución espacial similar a los polígonos de Thiessen Voronio.
 
+Filtro estaciones nivel de lámina
+
+	"Categoria" IN ('Limnigráfica','Limnimétrica') AND "LYearSTW" >= 5 AND "Tecnologia" IN ('Automática con Telemetría','Automática con Telemetría, Convencional','Automática sin Telemetría')
+	
+	"Entidad" = 'EMPRESA DE ACUEDUCTO Y ALCANTARILLADO DE BOGOTA E.S.P' AND "Categoria" IN ('Limnigráfica','Limnimétrica') AND "Corriente" = 'BOGOTÁ'
 
 
 Prompt: Duración promedio de la precipitación en la cuenca del Río Bogotá
