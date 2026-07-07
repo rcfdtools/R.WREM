@@ -14,7 +14,9 @@ East -73.5
 West -74.9
 
 ERA5_land_monthly_climatological_var_010dd_ssr_uv10_CuencaRioBogota.nc
-
+https://esa-landcover-cci.org/
+https://esa-worldcover.org/en
+Minus 273.15
 
 Nivel hidrológico superficial
 ● N1-AH

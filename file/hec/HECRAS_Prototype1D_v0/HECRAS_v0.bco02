@@ -1,0 +1,66 @@
+ 
+                                              HEC-RAS - River Analysis System
+ 
+ 
+Project File:  C:\R.WREM\file\hec\HECRAS_v0\HECRAS_v0.prj
+ 
+Project Name:  HECRAS_v0
+ 
+ 
+Plan Name:     Unsteady
+ 
+Short ID:      Unsteady
+ 
+
+Starting Time:   31Dec2025 2400
+
+Ending Time:     01Jan2026 1300
+
+
+                ################################################
+                #                                              #
+                #                                              #
+                #       1D and 2D Unsteady Flow Module         #
+                #                                              #
+                #                                              #
+                #          HEC-RAS 7.0.1 June 2026             #
+                #                                              #
+                #             06JUL26 at 17:14:50              #
+                #                                              #
+                ################################################
+                
+ 
+ 
+ 
+
+
+
+                 ***   Volume Accounting for 1D Flow Area in 1000 m^3   ***
+
+         US Inflow      DS Outflow       Lat Hydro        SA Hydro     Groundwater      Diversions   Precip Excess
+         *********      **********       *********        ********     ***********      **********   *************
+             1008.           1008.                                                                                                
+
+    Start 1D Reach  Final 1D Reach   Starting SA's      Final SA's
+    **************  **************   *************      **********
+            0.1238          0.3555                                
+
+ 
+
+
+
+                 ***  Total Volume Accounting (for the entire model) in 1000 m^3   ***
+
+Total Boundary Flux of Water In            1008.
+Total Boundary Flux of Water Out           1008.
+
+Starting Volume                           0.1238
+Ending Volume                             0.3555
+
+
+                             Error   Percent Error
+                             *****   *************
+                           0.08723        0.008653
+
+
+
