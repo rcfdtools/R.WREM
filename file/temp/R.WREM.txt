@@ -1,6 +1,5 @@
 R.WREM
 
-● 4 semana (martes 30 de junio, miércoles 1 y viernes 3 de julio) 8:00-10:00
 ● 5 semana (martes 7, miércoles 8 y viernes 10 de julio) 8:00-10:00  
 
 Q 28m3/s en sifon Fa
@@ -17,7 +16,6 @@ West -74.9
 ERA5_land_monthly_climatological_var_010dd_ssr_uv10_CuencaRioBogota.nc
 
 
-
 Nivel hidrológico superficial
 ● N1-AH
 ● N2-ZH
@@ -26,8 +24,6 @@ Nivel hidrológico superficial
 
 
 CNESource = if("Entidad" = 'INSTITUTO DE HIDROLOGÍA METEOROLOGÍA Y ESTUDIOS AMBIENTALES', 'CNE', 'CNE_OE')
-
-https://www.researchgate.net/publication/346703535_Effect_of_Data_Length_to_the_Consistency_of_Design_Rainfall
 
 Sample raster values
 
@@ -53,25 +49,25 @@ Filtro estaciones nivel de lámina
 	"Categoria" IN ('Limnigráfica','Limnimétrica') AND "LYearSTW" >= 5 AND "Tecnologia" IN ('Automática con Telemetría','Automática con Telemetría, Convencional','Automática sin Telemetría')
 	
 	"Entidad" = 'EMPRESA DE ACUEDUCTO Y ALCANTARILLADO DE BOGOTA E.S.P' AND "Categoria" IN ('Limnigráfica','Limnimétrica') AND "Corriente" = 'BOGOTÁ'
-
-
+	
+	
 Prompt: Duración promedio de la precipitación en la cuenca del Río Bogotá
 
-En la cuenca del río Bogotá, la precipitación no suele ser continua durante todo el día; se presenta principalmente a través de eventos intermitentes (chubascos o aguaceros). La duración promedio de estos eventos de lluvia oscila entre 1 y 4 horas, concentrándose fuertemente en las tardes y primeras horas de la noche.
+	En la cuenca del río Bogotá, la precipitación no suele ser continua durante todo el día; se presenta principalmente a través de eventos intermitentes (chubascos o aguaceros). La duración promedio de estos eventos de lluvia oscila entre 1 y 4 horas, concentrándose fuertemente en las tardes y primeras horas de la noche.
 
-Factores climáticos y duración
+	Factores climáticos y duración
 
-Régimen de lluvias: La cuenca presenta un régimen bimodal (dos temporadas de lluvias al año). La primera ocurre entre marzo y mayo, y la segunda entre octubre y mediados de diciembre.
+	Régimen de lluvias: La cuenca presenta un régimen bimodal (dos temporadas de lluvias al año). La primera ocurre entre marzo y mayo, y la segunda entre octubre y mediados de diciembre.
 
-Acumulados mensuales: Durante los meses más lluviosos, como abril, la precipitación mensual puede llegar a 378 mm (en la ciudad de Bogotá). En total, el promedio anual de la ciudad es de 866 mm.
+	Acumulados mensuales: Durante los meses más lluviosos, como abril, la precipitación mensual puede llegar a 378 mm (en la ciudad de Bogotá). En total, el promedio anual de la ciudad es de 866 mm.
 
-Influencia orográfica: Los cerros orientales y la topografía condicionan la formación de las nubes y desencadenan tormentas que duran un par de horas, especialmente cuando hay humedad proveniente de los Llanos Orientales.
+	Influencia orográfica: Los cerros orientales y la topografía condicionan la formación de las nubes y desencadenan tormentas que duran un par de horas, especialmente cuando hay humedad proveniente de los Llanos Orientales.
 
-Tiempo de concentración de la cuencaEn términos estrictamente hidrológicos, el tiempo de concentración (el tiempo que tarda una "gota de lluvia" desde la parte más lejana de la cuenca en llegar al cauce principal del río Bogotá) varía de forma considerable según la zona:
+	Tiempo de concentración de la cuencaEn términos estrictamente hidrológicos, el tiempo de concentración (el tiempo que tarda una "gota de lluvia" desde la parte más lejana de la cuenca en llegar al cauce principal del río Bogotá) varía de forma considerable según la zona:
 
-Cuenca urbana y subcuencas: En microcuencas urbanas (como los ríos Torca, Salitre, Fucha o Tunjuelo), este tiempo puede ser muy rápido, de 1 a 3 horas tras iniciar un aguacero.
+	Cuenca urbana y subcuencas: En microcuencas urbanas (como los ríos Torca, Salitre, Fucha o Tunjuelo), este tiempo puede ser muy rápido, de 1 a 3 horas tras iniciar un aguacero.
 
-Cuenca alta y media: El tiempo que tarda el agua en recorrer las partes más extensas puede oscilar entre 8 y 12 horas antes de que el caudal máximo alcance la cuenca baja.
+	Cuenca alta y media: El tiempo que tarda el agua en recorrer las partes más extensas puede oscilar entre 8 y 12 horas antes de que el caudal máximo alcance la cuenca baja.
 
 
 			
