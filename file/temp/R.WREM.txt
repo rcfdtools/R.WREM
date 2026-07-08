@@ -1,6 +1,8 @@
 R.WREM
 
-● 5 semana (martes 7, miércoles 8 y viernes 10 de julio) 8:00-10:00  
+● 5 semana (miércoles 8 y viernes 10 de julio) 8:00-10:00  
+
+Convert this chart in a day by day table
 
 Q 28m3/s en sifon Fa
 ARF Q
