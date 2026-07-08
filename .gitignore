@@ -87,6 +87,10 @@ file/grid/LC09_L2SP/*.*
 #.dem/*.rar
 #.dem/*.7z
 file/ref/Ley388de1997.pdf
+HECRAS_Prototype1D_v0/
+HECRAS_Prototype2D_v0/
+HECRAS_River1D_v0/
+HECRAS_River2D_v0/
 HECHMS_v0/
 HECHMS_v1/
 HECRAS_v0/
