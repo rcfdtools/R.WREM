@@ -7,7 +7,7 @@ Duration: 5 weeks (W1-4h, W2-4h, W3-4h, W4-6h, W5-6h)
 HECRAS_Prototype1D_v0
 HECRAS_Prototype2D_v0
 HECRAS_River_v0
-
+Bridge 2D https://www.youtube.com/watch?v=yBpWdOBdasU
 
 Q 28m3/s en sifon Fa
 ARF Q
