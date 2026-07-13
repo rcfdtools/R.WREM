@@ -116,7 +116,7 @@ _R.WREM is free to use for academic purposes; learn about our license, clauses, 
 
 _Did you find this repository useful? Support its distribution by marking it with a ⭐ or follow us by clicking the Follow button [rcfdtools](https://github.com/rcfdtools) in GitHub._
 
- [:infinity: + Courses and Tools](https://github.com/rcfdtools) | [:beginner: Help / Collaborate](https://github.com/rcfdtools/R.WREM/discussions/1) | [:notebook: References](file/ref/Readme.md) | [:label: Dictionary](https://github.com/rcfdtools/rcfdtools/blob/main/file/ref/Dictionary.md) |
-|------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------|
+ [:infinity: + Courses and Tools](https://github.com/rcfdtools) | [:beginner: Help / Collaborate](https://github.com/rcfdtools/R.WREM/discussions/1) | [:notebook: References](file/ref/Readme.md) | [:label: Dictionary](https://github.com/rcfdtools/rcfdtools/blob/main/file/ref/Dictionary.md) | <div align="center"><img alt="rcfdtools" src="file/graph/R.WREM.svg" height="32px"></div> |
+|------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------|---|
 
-<div align="center"><img alt="rcfdtools" src="file/graph/R.WREM.svg" height="46px"></div>
+
