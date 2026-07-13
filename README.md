@@ -1,6 +1,6 @@
 <div align="center"><a href="https://github.com/rcfdtools" target="_blank"><img src="https://github.com/rcfdtools/rcfdtools/blob/main/file/graph/rcfdtools_banner.png" alt="rcfdtools" width="100%" border="0" /></a></div>
 
-# COURSE: _“Water Resources Engineering and Management - WREM”_
+# 🎓️COURSE: _“Water Resources Engineering and Management - WREM”_
 Keywords: `hydrology` `hydraulics` `geographic-information-systems` `hec-ras` `hec-hms` `qgis` `river-design` `river-modeling` `river-profile` `river-slope` `manning-roughness` 
 
 Water Resources Engineering and Management is a specialized field that blends civil engineering, hydrology, hydraulics and environmental science to sustainably supply, distribute, and protect the world's freshwater resources. It focuses on balancing human demands (such as drinking water, agriculture, and industry) with ecological preservation while mitigating water-related hazards like floods and droughts. The combination of hydrology and hydraulics allow engineers to calculate how much water is coming and design systems to safely manage, transport, or utilize it.
