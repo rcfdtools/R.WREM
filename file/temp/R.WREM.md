@@ -1,7 +1,6 @@
-R.WREM
-Duration: 5 weeks (W1-4h, W2-4h, W3-4h, W4-6h, W5-6h)
+# R.WREM / Notes
 
-● 5 semana (viernes 10 de julio) 07:30-09:30  
+Duration: 5 weeks (W1-4h, W2-4h, W3-4h, W4-6h, W5-6h)
 
 
 HECRAS_Prototype1D_v0
